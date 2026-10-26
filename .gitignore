@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+ev_charging.db
+.vscode/
+.idea/
